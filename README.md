@@ -6,6 +6,8 @@
 ### :man_technologist: &nbsp;About Me :
 
 Hi, I'm a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> with approximately 3 years of software development experience. I'm currently working in telecommunication security ecosystem in Viettel Cyber Security. During my time in there, I've been to be in charge of design, research solutions and develop features of products, delivering different types of production software. Our major is focus on telecommunication security products serving the defense and security work of the Ministry of National Defense of Vietnam.        
+
+- ⚡ Currently, I'm diving into GOLANG <img src="https://media.giphy.com/media/PhTSmzCqkliqIJ9ZtZ/giphy.gif" width="40" />
  
 - 📫 What is the best way to contact me?  
 
