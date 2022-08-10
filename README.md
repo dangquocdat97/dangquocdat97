@@ -15,7 +15,10 @@ Hi, I'm a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ---------------------------
 
-<a href="https://app.daily.dev/datdq97"><img src="https://api.daily.dev/devcards/4ade064c26394c40ab4a0698c1e13aa5.png?r=ihs" width="250" alt="Dat Dang's Dev Card"/></a>
+<a href="https://app.daily.dev/datdq97"><img align="right" src="https://api.daily.dev/devcards/4ade064c26394c40ab4a0698c1e13aa5.png?r=ihs" width="300" alt="Dat Dang's Dev Card"/></a>
+<br />
+
+
 
 ### Programming Language
 [![Golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)]()
