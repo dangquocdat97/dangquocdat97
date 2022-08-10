@@ -14,7 +14,8 @@ Hi, I'm a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEm
     - [![Linkedin](https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%C4%91%E1%BA%A1t-%C4%91%E1%BA%B7ng-99b76014b/) [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dangquocdat97@gmail.com)
 
 ---------------------------
- <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dangquocdat97&layout=compact&lang-count=8&show_icons=true&theme=vision-friendly-dark"/>
+
+<a href="https://app.daily.dev/datdq97"><img src="https://api.daily.dev/devcards/4ade064c26394c40ab4a0698c1e13aa5.png?r=ihs" width="250" alt="Dat Dang's Dev Card"/></a>
 
 ### Programming Language
 [![Golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)]()
